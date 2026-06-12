@@ -1,2 +1,2 @@
-# streamline-demo
+# streamlit-demo
 my first streamlit application 
